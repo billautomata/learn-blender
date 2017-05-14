@@ -6,7 +6,7 @@
 * modeling with mirror modifier
 * targeting smooth subdivide modifier 
 * assigning multiple materials per object
-* lighting and rendering
+* camera position, lighting, and rendering
 
 Create:
 * Trees from Cones.
