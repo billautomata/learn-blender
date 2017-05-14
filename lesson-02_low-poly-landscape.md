@@ -4,9 +4,8 @@
 
 * scene management
 * modeling with mirror modifier
-* targeting smooth subdivide modifier 
 * assigning multiple materials per object
-* camera position, lighting, and rendering
+* camera settings, lighting, and rendering
 
 Create:
 * Trees from Cones.
